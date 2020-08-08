@@ -1,7 +1,7 @@
-### Hi there 🙃
-Bruna Floriano aqui 💁‍♀️ . 
+### Hi there 🍀
+Bruna Floriano aqui 🙃
 
-Em 2019 resolvi reinventar minha carreira... Participei do bootcamp da [Laboratoria](https://github.com/Laboratoria) 💛 e me apaixonei pelas telinhas pretas.
+Em 2019 resolvi reinventar minha carreira... Participei do bootcamp da [Laboratoria](https://github.com/Laboratoria) 💛 e me apaixonei pelas telinhas pretas. 
 Hoje atuo no mercado como Desenvolvedora Front-End 👩‍💻
 
 Quer saber mais?
