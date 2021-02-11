@@ -9,7 +9,7 @@ Aqui compartilho meus projetos pessoais e desafios que me ajudam a evoluir cada 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfloriano&layout=compact&theme=buefy&hide_border=true&langs_count=6&card_width=280" />
-    <img src="https://github-readme-stats.vercel.app/api?username=bfloriano&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=buefy"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bfloriano&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=buefy&line_height=20"/>
   </div>
 </div>
 
